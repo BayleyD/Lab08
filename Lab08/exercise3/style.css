@@ -1,0 +1,41 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    background-color: rgb(255, 0, 179);
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+par{
+    display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+par:hover{
+    display: block;
+    text-align: center;
+    background-color: rgb(86, 100, 233);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.links{
+    display: block;
+    text-align: center;
+}
